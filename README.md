@@ -19,7 +19,7 @@ The preprint is available via: *TBD*.
 Cite our work using the following BiBTex.
 
 ```bibtex
-@article{kim2027:qc-vis-gallery
+@article{kim2027
  title        = {A Design Space for Quantum Circuit Visualizations},
  author       = {Kim, Hyeok AND Battle, Leilani},
  year         = 2026,
