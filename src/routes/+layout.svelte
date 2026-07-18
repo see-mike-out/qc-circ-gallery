@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>CIRCUIT VIS DATA ANALYSIS</title>
+	<title>Quantum Circuit Visualization Gallery</title>
 </svelte:head>
 
 {@render children()}
