@@ -1,0 +1,199 @@
+name,source,timeCollected,note
+00-basic-with-hl.jpg,IBM QDC 2025,Nov. 2025,Image available upon request
+01-basic-with-anno.jpg,IBM QDC 2025,Nov. 2025,Image available upon request
+02-aggregate-ellipsis.png,https://www.nature.com/articles/s42005-025-02136-8.pdf,2025,Nov. 2025,Figure 1.A
+04-sectioning-anno.png,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10992896,Nov. 2025,Figure 2
+05-vertical.png,https://arxiv.org/pdf/2512.21991,Nov. 2025,Figure 16 (left)
+06-large-circuot-boxing.png,Qiskit documentation,Nov. 2025,Image available upon request (taken down from the original source).
+07-line-wrapped.jpg,https://raw.githubusercontent.com/Qiskit/documentation/ffea99a26d909c00e6541148d97a6f7e41a69f72/public/docs/images/tutorials/grovers-algorithm/extracted-outputs/c9a3020e-0.avif,Nov. 2025,Grovers algorithm tutorial (Link https://quantum.cloud.ibm.com/docs/en/tutorials/grovers-algorithm). The image was taken down. The source link is from the commit history.
+08-3d-pauli.jpg,IBM QDC 2025,Nov. 2025,Taken at the venue. Image available upon request
+09-3d-large.jpg,IBM QDC 2025,Nov. 2025,Taken at the venue. Image available upon request
+10-3d-annotations.jpg,IBM QDC 2025,Nov. 2025,Taken at the venue. Image available upon request
+11-3d-pictures.png,Nature Communications https://www.nature.com/articles/s41467-025-67768-4_reference.pdf,Dec. 2025,Figure 4.A
+12-3d-qubit-line-hl.jpg,"IBM QDC 2025, https://arxiv.org/pdf/2504.15725",Nov. 2025,Figure 3 (Bottom) (Originally taken at the venue)
+13-3d-vertical.jpg,"IBM QDC 2025",Nov 2025,Taken at the venue. Image available upon request
+14-cartoons.png,https://arxiv.org/pdf/2504.15725,Nov. 2025,Figure 1
+15-3d-horizontal.jpg,"IBM QDC 2025, https://arxiv.org/pdf/2504.15725",Nov 2025,Figure 2.C (Originally taken at the venue)
+16-heatmap.jpg,IBM QDC 2025,Nov. 2025,Taken at the venue. Image available upon request
+17-cartoons-2.png,https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.6.020330,"Feb 12, 2026", Figure 1
+18-on-machine-a.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fimproving-energy-estimation-of-a-fermionic-hamiltonian-with-sqd%2F7e0ee7e1-2d24-417f-ac59-25c58db79aa9.avif&w=1920&q=75"
+19-qiskit-qaoa.svg,https://quantum.cloud.ibm.com/docs/en/tutorials/quantum-approximate-optimization-algorithm,"Feb 12, 2026",https://quantum.cloud.ibm.com/docs/images/tutorials/quantum-approximate-optimization-algorithm/circuit-diagram.svg
+20-qiskit-pauli-corr.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/pauli-correlation-encoding-for-qaoa,"Feb 12, 2026",https://quantum.cloud.ibm.com/docs/en/tutorials/pauli-correlation-encoding-for-qaoa Focus only on the circuit part. The graph netorks are not part of the scope.
+21-qiskit-qaoa-step1.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/quantum-approximate-optimization-algorithm,"Feb 12, 2026",Image available upon request (taken down from the original source).
+22-qiskit-hadamard-test.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/krylov-quantum-diagonalization,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fkrylov-subspace-diagonalization%2Fc5263851-6067-4ca2-8e0c-a835631cdc7f.avif&w=1920&q=75"
+23-qiskit-nishimori.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/nishimori-phase-transition,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fnishimori-phase-transition%2Fextracted-outputs%2Fa19d63ce-3572-4081-a008-c1332fbbe303-0.avif&w=3840&q=75"
+24-qiskit-shors.svg,https://quantum.cloud.ibm.com/docs/en/tutorials/shors-algorithm,"Feb 12, 2026","https://quantum.cloud.ibm.com/learning/images/courses/fundamentals-of-quantum-algorithms/phase-estimation-and-factoring/phase-estimation-procedure.svg"
+25-qiskit-grover.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/grovers-algorithm,"Feb 12, 2026",Image available upon request (taken down from the original source).
+26-qiskit-bell-pairs.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/edc-cut-bell-pair-benchmarking,"Feb 12, 2026",The original image was taken down from the source (available upon request). https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fedc-cut-bell-pair-benchmarking%2Fextracted-outputs%2F160e25c5-0.avif&w=3840&q=75 (extended version of this image)
+27-qiskit-fractional.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/fractional-gates,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Ffractional-gates%2Fextracted-outputs%2F6c9c1977-0.avif&w=3840&q=75"
+28-qiskit-ghz-star-toplogy.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/transpilation-optimizations-with-sabre,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Ftranspilation-optimizations-with-sabre%2Fghz_star_topology.avif&w=2048&q=75"
+29-qiskit-long-range.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/long-range-entanglement,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Flong-range-entanglement%2Fdynamic_vs_unitary_long_range_illustration.avif&w=3840&q=75"
+30-qiskit-plot-circ-lay.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/dc-hex-ising,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fdc-hex-ising%2Fextracted-outputs%2F8c3c633f-0.avif&w=3840&q=75"
+31-qiskit-cut-unfriendly.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/wire-cutting,"Feb 12, 2026",Image available upon request (taken down from the original source).
+32-qiskit-short-many-qubits.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/periodic-boundary-conditions-with-circuit-cutting,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fperiodic-boundary-conditions-with-circuit-cutting%2Fextracted-outputs%2F79428537-66cf-40ce-87cf-0f75f591cb4b-0.avif&w=1920&q=75"
+33-li-benjamin.avif,Li & Benjamin PRX (2017) https://quantum.cloud.ibm.com/docs/en/tutorials/probabilistic-error-amplification,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Futility-scale-error-mitigation-with-probabilistic-error-amplification%2F3d69d5bd-70e5-4eeb-aa02-fc0a62043010.avif&w=640&q=75"
+34-kandala-connection.avif,Kandala et al. Nature (2019) https://quantum.cloud.ibm.com/docs/en/tutorials/probabilistic-error-amplification,"Feb 12, 2026",Figure 1.b from https://www.nature.com/articles/s41586-019-1040-7 
+35-vanderberg-pea.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/probabilistic-error-amplification,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Futility-scale-error-mitigation-with-probabilistic-error-amplification%2F8d0d64c3-65ad-4419-8ac9-4ec9633d39a0.avif&w=1920&q=75"
+36-qiskit-bad.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/real-time-benchmarking-for-qubit-selection,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Freal-time-benchmarking-for-qubit-selection%2Fextracted-outputs%2F64c25da9-a728-4ae4-a377-3078a1dc618d-0.avif&w=3840&q=75"
+37-syndrome.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/repetition-codes,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Frepetition-codes%2Fextracted-outputs%2Fdbe02949-0.avif&w=3840&q=75"
+38-qiskit-mpl-view-comb.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/ghz-spacetime-codes,"Feb 12, 2026","https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Ferror-detection%2Fextracted-outputs%2F04bb6ea7-0.avif&w=2048&q=75"
+39-pennylane-tensor.png,https://pennylane.ai/qml/demos/tutorial_tensor_network_basics,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_tensor_network_basics/main/_assets/images/12-expectation-local.png?w=1920"
+40-pennylane-mdr.png,https://pennylane.ai/qml/demos/tutorial_qnn_multivariate_regression,"Feb 12, 2026","http://blog-assets.cloud.pennylane.ai/demos/tutorial_qnn_multivariate_regression/main/_assets/images/qnn_circuit.png"
+41-pennylane-mps-ani.gif,https://pennylane.ai/qml/demos/tutorial_mps,"Feb 12, 2026","Not a real circuit. this is more of a clip art https://blog-assets.cloud.pennylane.ai/demos/tutorial_mps/main/_assets/images/TN_MPS.gif?w=1920"
+43-qiskit-ising.avif,https://quantum.cloud.ibm.com/docs/en/tutorials/dc-hex-ising,"Feb 12, 2026",https://quantum.cloud.ibm.com/assets-docs-learning/_next/image?url=%2Fdocs%2Fimages%2Ftutorials%2Fdc-hex-ising%2Fcircuit-1.avif&w=1920&q=75
+44-pennylane-stats.png,https://pennylane.ai/qml/demos/tutorial_estimator_hamiltonian_simulation_gqsp ,"Feb 12, 2026","Docs https://docs.pennylane.ai/en/stable/code/api/pennylane.estimator.estimate.estimate.html"
+45-pennylane-qpe.png,https://pennylane.ai/qml/demos/tutorial_re_for_qubitizedQPE,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_re_for_qubitizedQPE/main/_assets/images/pennylane-demo-image-circuit-batching-fig.png?w=1920"
+46-pennylane-select-swap.jpeg,https://pennylane.ai/qml/demos/tutorial_re_for_qubitizedQPE,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_re_for_qubitizedQPE/main/_assets/images/selswap_combine.jpeg?w=1920"
+47-pennylane-three-qubit.png,https://pennylane.ai/qml/demos/tutorial_stabilizer_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_stabilizer_codes/main/_assets/images/three_qubit_encode.png?w=1920"
+48-pennylane-3-qubit-stabilize.png,https://pennylane.ai/qml/demos/tutorial_stabilizer_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_stabilizer_codes/main/_assets/images/3_qubit_code.png?w=1920"
+49-pennylane-3-qubit-full.png,https://pennylane.ai/qml/demos/tutorial_stabilizer_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_stabilizer_codes/main/_assets/images/five_qubit_encode.png?w=1920"
+50-pennylane-3q-concept.png,https://pennylane.ai/qml/demos/tutorial_stabilizer_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_stabilizer_codes/main/_assets/images/general_stabilizer_circuit.png?w=1920"
+51-pennylane-hidden-cut.png,https://pennylane.ai/qml/demos/tutorial_hidden_cut,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_hidden_cut/main/_assets/images/circuit.png?w=1920"
+52-pennylane-chebyshev.png,https://pennylane.ai/qml/demos/tutorial_quantum_chebyshev_transform,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_quantum_chebyshev_transform/main/_assets/images/qcht_circuit_diagram.png?w=1920"
+53-pennylane-non-clifford.png,https://pennylane.ai/qml/demos/tutorial_game_of_surface_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_game_of_surface_codes/main/_assets/images/magic_state_injection.png?w=1920"
+54-pennylane-non-clifford-2.png,https://pennylane.ai/qml/demos/tutorial_game_of_surface_codes,"Feb 12, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_game_of_surface_codes/main/_assets/images/auto-corrected-non-clifford.png?w=1920"
+55-pennylane-catalyst.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/qpe_full.svg?w=1920"
+56-pennylane-catalyst-2.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/c-ua.svg?w=1920"
+57-pennylane-catalyst-3.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/qpe_full_combined_multi_est_wires.svg?w=1920 Demonstrating Pennylane-s circuit optimization technique called Catalyst. That is why the circuit does not look like usual Shors algorithm."
+58-pennylane-catalyst-4.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/doubly-controlled-adder-simplified-states.svg?w=1920"
+59-pennylane-catalyst-5.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/c-ua-basis-states-optimization.svg?w=1920"
+60-pennylane-catalyst-6.svg,https://pennylane.ai/qml/demos/tutorial_shors_algorithm_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_shors_algorithm_catalyst/main/_assets/images/qpe_full_modified_power_with_qft-7.svg?w=1920"
+61-pennylane-tele.png,https://pennylane.ai/qml/demos/tutorial_active_volume,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_active_volume/main/_assets/static/demonstration_assets/active_volume/teleportation-insert-teleport.png?w=1920"
+62-pennylane-tele-2.png,https://pennylane.ai/qml/demos/tutorial_active_volume,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_active_volume/main/_assets/static/demonstration_assets/active_volume/teleportation-commuted.png?w=1920"
+63-pennylane-loom.png,https://pennylane.ai/qml/demos/tutorial_loom_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_loom_catalyst/main/_assets/images/syndrome01.png?w=1920"
+64-pennylane-bp.png,https://pennylane.ai/qml/demos/tutorial_bp_catalyst,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_bp_catalyst/main/_assets/images/qec.png?w=1920"
+65-pennylane-qml.png,https://pennylane.ai/qml/demos/tutorial_generative_quantum_advantage,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_generative_quantum_advantage/main/_assets/images/pennylane-demo-generative-quantum-advantage-fig2.png?w=1920"
+66-pennylane-qml-2.png,https://pennylane.ai/qml/demos/tutorial_generative_quantum_advantage,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_generative_quantum_advantage/main/_assets/images/pennylane-demo-generative-quantum-advantage-fig3.png?w=1920"
+67-pennylane-qml-3.png,https://pennylane.ai/qml/demos/tutorial_generative_quantum_advantage,"Feb 16, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_generative_quantum_advantage/main/_assets/images/pennylane-demo-generative-quantum-advantage-fig5.png?w=1920"
+68-ftqc-1.png,https://www.nature.com/articles/s41586-023-06096-3,"Feb 16, 2026",Figure 1.d
+69-ftqc-2.png,https://www.nature.com/articles/s41586-023-06096-3,"Feb 16, 2026",Figure 1.c
+70-ftqc-3.png,https://www.nature.com/articles/s41586-023-06096-3,"Feb 16, 2026",Figure 1.a and 1.b
+71-cirq-hello.png,https://quantumai.google/cirq/start/start,"Feb 17, 2026","Introductory algorithm. Cirq represents qubits on their grid-based circuit. Users cand define the grid as they want. So the existence of grid does not necessarily indicate that it is a physical circuit. For example, here, X^0.5 is a logical gate that needs further decomposition and optimization. It is not yet fully decomposed. Thus, it is physical circuit only on the qubit side."
+72-cirq-3qubit.png,https://quantumai.google/cirq/start/basics,"Feb 17, 2026",The shade is due to the selection (not the part of the circuit). https://quantumai.google/cirq/start/basics#unitary_matrices_and_decompositions (bottom snippet of this section).
+73-cirq-append.png,https://quantumai.google/cirq/build/circuits,"Feb 17, 2026","https://quantumai.google/cirq/images/InsertStrategy.png"
+74-cirq-qft.png,https://quantumai.google/cirq/build/circuits,"Feb 17, 2026","The last circuit in the document. The #2-and internal circuit is just a grouped operation and its inside. The circuit inside, suppose as if there is another circuit that is being implanted into a larger circuit."
+75-cirq-repeat.png,https://quantumai.google/cirq/build/circuits,"Feb 17, 2026","https://quantumai.google/cirq/build/circuits#:~:text=%5B%20(0%2C%200)%3A%20%E2%94%80%E2%94%80%E2%94%80%40%E2%94%80%E2%94%80%E2%94%80%20%5D%0A(0,q(2%2C%200)%7D)"
+76-simple-with-vector.png,https://quantumai.google/cirq/build/qubits,"Feb 17, 2026","https://quantumai.google/cirq/build/qubits#:~:text=myqubit%3A%20%E2%94%80%E2%94%80%E2%94%80H%E2%94%80%E2%94%80%E2%94%80%0Aresult%3A%0Ameasurements%3A%20(no%20measurements)%0Aoutput%20vector%3A%200.707%7C0%E2%9F%A9%20%2B%200.707%7C1%E2%9F%A9"
+77-cirq-measure-names.png,https://quantumai.google/cirq/build/interop,"Feb 17, 2026","https://quantumai.google/cirq/build/interop#:~:text=q_0%3A%20%E2%94%80%E2%94%80%E2%94%80H%E2%94%80%E2%94%80%E2%94%80M(%27meas_0%27)%E2%94%80%E2%94%80%E2%94%80%0A%0Aq_1%3A%20%E2%94%80%E2%94%80%E2%94%80H%E2%94%80%E2%94%80%E2%94%80M(%27meas_1%27)%E2%94%80%E2%94%80%E2%94%80%0A%0Aq_2%3A%20%E2%94%80%E2%94%80%E2%94%80H%E2%94%80%E2%94%80%E2%94%80M(%27meas_2%27)%E2%94%80%E2%94%80%E2%94%80"
+78-cirq-with-unitary.png,https://quantumai.google/cirq/build/protocols,"Feb 17, 2026","The first circuit. https://quantumai.google/cirq/build/protocols#:~:text=X%0Acirq.X%20unitary%3A%0A%20%5B%5B0.%2B0.j%201.%2B0.j%5D%0A%20%5B1.%2B0.j%200.%2B0.j%5D%5D%0A0%3A%20%E2%94%80%E2%94%80%E2%94%80X%E2%94%80%E2%94%80%E2%94%80%0A%0A1%3A%20%E2%94%80%E2%94%80%E2%94%80Y%E2%94%80%E2%94%80%E2%94%80%0Acircuit%20unitary%3A%0A%20%5B%5B0.%2D0.j%200.%2D0.j%200.%2D0.j%200.%2D1.j%5D%0A%20%5B0.%2B0.j%200.%2B0.j%200.%2B1.j%200.%2B0.j%5D%0A%20%5B0.%2D0.j%200.%2D1.j%200.%2D0.j%200.%2D0.j%5D%0A%20%5B0.%2B1.j%200.%2B0.j%200.%2B0.j%200.%2B0.j%5D%5D"
+79-cirq-with-density.png,https://quantumai.google/cirq/simulate/noisy_simulation,"Feb 17, 2026",The first snippet
+80-cirq-with-noise.png,https://quantumai.google/cirq/simulate/noisy_simulation,"Feb 17, 2026","https://quantumai.google/cirq/simulate/noisy_simulation#adding_noise_to_circuits"
+81-cirq-grid.png,https://quantumai.google/cirq/simulate/quantum_virtual_machine,"Feb 17, 2026","https://quantumai.google/cirq/simulate/quantum_virtual_machine#set_up_the_virtual_engine_with_a_virtual_processor_packaging_in_the_noisy_simulator"
+82-cirq-stabilizer.png,https://quantumai.google/cirq/simulate/qvm_stabilizer_example,"Feb 17, 2026","https://quantumai.google/cirq/simulate/qvm_stabilizer_example#stabilizer_measurements_on_a_small_grid"
+83-ciq-transformer.png,https://quantumai.google/cirq/transform/transformers,"Feb 17, 2026","The last snippet from: https://quantumai.google/cirq/transform/transformers#compiling_to_nisq_targets_cirqcompilationtargetgateset"
+84-cirq-transformer-custom.png,https://quantumai.google/cirq/transform/custom_transformers,"Feb 17, 2026","The second snippet from: https://quantumai.google/cirq/transform/custom_transformers#cirqtransformerlogger_and_support_for_automated_logging"
+85-cirq-ignore.png,https://quantumai.google/cirq/transform/custom_transformers,"Feb 17, 2026","https://quantumai.google/cirq/transform/custom_transformers#moment_preserving_transformer_primitives"
+86-cirq-in-and-in.png,https://quantumai.google/cirq/transform/custom_transformers,"Feb 17, 2026","https://quantumai.google/cirq/transform/custom_transformers#analytical_gate_decompositions"
+87-cirq-routing.png,https://quantumai.google/cirq/transform/routing_transformer,"Feb 17, 2026","The third snippet from: https://quantumai.google/cirq/transform/routing_transformer#a_simple_example"
+88-cirq-routing-compare.png,https://quantumai.google/cirq/transform/routing_transformer,"Feb 17, 2026","The second snippet from: https://quantumai.google/cirq/transform/routing_transformer#unitary_equivalence"
+89-cirq-machine-1.png,https://quantumai.google/cirq/hardware/qubit_picking,"Feb 17, 2026","https://quantumai.google/static/cirq/hardware/qubit_picking_files/output_E70fyCU7puGr_1.png"
+90-cirq-machine-2.png,https://quantumai.google/cirq/hardware/qubit_picking,"Feb 17, 2026","https://quantumai.google/static/cirq/hardware/qubit_picking_files/output_Q4SNArjfMkB4_1.png"
+91-cirq-pascal.png,https://quantumai.google/cirq/hardware/pasqal/getting_started,"Feb 17, 2026","https://quantumai.google/cirq/images/pasqal/Grover_circuit.png"
+92-cirq-mocking.png,https://quantumai.google/cirq/noise/qcvv/parallel_xeb,"Feb 17, 2026","https://quantumai.google/static/cirq/noise/qcvv/parallel_xeb_files/output_7ea374d2d337_0.png"
+93-cirq-mocking-2.png,https://quantumai.google/cirq/noise/heatmaps,"Feb 17, 2026","https://quantumai.google/static/cirq/noise/heatmaps_files/output_b0ba4868305f_0.png"
+94-cirq-tele.png,https://quantumai.google/cirq/experiments/textbook_algorithms,"Feb 17, 2026","https://quantumai.google/cirq/experiments/textbook_algorithms#quantum_teleportation"
+95-cirq-tele-2.png,https://quantumai.google/cirq/experiments/textbook_algorithms,"Feb 17, 2026","https://upload.wikimedia.org/wikipedia/commons/6/61/Q_fourier_nqubits.png"
+96-cirq-shors.png,https://quantumai.google/cirq/experiments/shor,"Feb 17, 2026","https://quantumai.google/cirq/experiments/shor#quantum_arithmetic_gates_in_cirq"
+97-cirq-vqe.png,https://quantumai.google/cirq/experiments/variational_algorithm,"Feb 17, 2026","The third snippet from: https://quantumai.google/cirq/experiments/variational_algorithm#creating_the_ansatz"
+98-cirq-linear.png,https://quantumai.google/cirq/experiments/hidden_linear_function,"Feb 17, 2026","https://quantumai.google/cirq/experiments/hidden_linear_function#solution_with_a_quantum_circuit"
+99-cirq-qaoa.png,https://quantumai.google/cirq/experiments/qaoa/example_problems,"Feb 17, 2026","https://quantumai.google/cirq/experiments/qaoa/images/qaoa_circuit.png"
+100-cirq-qaoa-mach.png,https://quantumai.google/cirq/experiments/qaoa/example_problems,"Feb 17, 2026","https://quantumai.google/static/cirq/experiments/qaoa/example_problems_files/output_cfqQ04KknI9z_0.png?dcb_=0.17023378396109912"
+101-cirq-chess.png,https://quantumai.google/cirq/experiments/unitary/quantum_chess/concepts,"Feb 17, 2026","https://quantumai.google/cirq/experiments/unitary/quantum_chess/concepts#quantum_chess_in_cirq"
+102-cirq-toric.png,https://quantumai.google/cirq/experiments/toric_code/toric_code_ground_state,"Feb 17, 2026","https://quantumai.google/cirq/experiments/images/toric_code1.png"
+103-cirq-toric-prog.png,https://quantumai.google/cirq/experiments/toric_code/toric_code_ground_state,"Feb 17, 2026","The second snippet from: https://quantumai.google/cirq/experiments/toric_code/toric_code_ground_state#basics_22-qubit_circuit"
+104-pennylane-toric.png,https://pennylane.ai/qml/demos/tutorial_toric_code,"Feb 17, 2026","https://blog-assets.cloud.pennylane.ai/demos/tutorial_toric_code/main/_assets/images/sphx_glr_tutorial_toric_code_001.png?w=1920"
+105-cirq-lat-gau-1.png,https://arxiv.org/abs/2409.17142,"Feb 17, 2026",Figure 4.c
+106-cirq-lat-gau-2.png,https://arxiv.org/abs/2409.17142,"Feb 17, 2026",Figure 3.b
+107-cirq-lat-gau-3.png,https://arxiv.org/pdf/2409.17142,"Feb 17, 2026",Figure 3.e
+108-cirq-lat-gau-4.png,https://arxiv.org/abs/2409.17142,"Feb 17, 2026",Figure 2.d
+109-nature-main-1c.png,https://www.nature.com/articles/s41586-024-08404-x,"Feb 18, 2026",Figure 1.c
+110-nature-main-2a.png,"https://www.nature.com/articles/s41586-024-08404-x#Sec3","Feb 18, 2026","Figure 2.a. The heatmap at the bottom is not about a circuit, but the fidelity information of each gate with different parameter combinations."
+111-nature-main-3a.png,"https://www.nature.com/articles/s41586-024-08404-x#Sec3","Feb 18, 2026",Figure 3.a
+112-nature-ruiz-1.png,https://www.nature.com/articles/s42256-025-01001-1,"Feb 18, 2026",Figure 1
+113-nature-ruiz-2.png,https://www.nature.com/articles/s42256-025-01001-1,"Feb 18, 2026",Figure 3
+114-nature-ruiz-3.png,https://www.nature.com/articles/s42256-025-01001-1,"Feb 18, 2026",Figure 5
+115-nature-ruiz-1.png,https://www.nature.com/articles/s41467-025-56298-8,"Feb 18, 2026",Figure 4.a
+116-nature-ruiz-2.png,https://www.nature.com/articles/s41467-025-56298-8,"Feb 18, 2026",Figure 4.b
+117-nature-yan-2b.png,https://www.nature.com/articles/s41534-025-01136-4,"Feb 18, 2026",Figure 2.b
+118-nature-yan-4b.png,https://www.nature.com/articles/s41534-025-01136-4,"Feb 18, 2026",Figure 4.b
+119-nature-akpinar-1-3.png,https://www.nature.com/articles/s41598-025-97067-3,"Feb 18, 2026",Figure 1.3
+120-nature-akpinar-4.png,https://www.nature.com/articles/s41598-025-97067-3,"Feb 18, 2026",Figure 4
+121-nature-gao-3-3.png,https://www.nature.com/articles/s41598-025-32572-z,"Feb 18, 2026",Figure 3.3
+122-nature-zhang-3a.png,https://www.nature.com/articles/s41467-025-67768-4,"Feb 18, 2026",Figure 3.a
+123-nature-zhang-3b.png,https://www.nature.com/articles/s41467-025-67768-4,"Feb 18, 2026",Figure 3.b
+124-nature-than-1c.png,https://www.nature.com/articles/s41467-025-65198-w,"Feb 18, 2026",Figure 1.c
+125-nature-than-6.png,https://www.nature.com/articles/s41467-025-65198-w,"Feb 18, 2026",Figure 6
+126-nature-butt-3a.png,https://www.nature.com/articles/s41467-026-68533-x,"Feb 18, 2026",Figure 3.a
+127-nature-zhu-1.png,https://www.nature.com/articles/s41534-025-01145-3,"Feb 18, 2026",Figure 1
+128-nature-mihalikova-3.png,https://www.nature.com/articles/s41598-025-00151-x,"Feb 18, 2026",Figure 3
+129-nature-mihalikova-5.png,https://www.nature.com/articles/s41598-025-00151-x,"Feb 18, 2026",Figure 5
+130-nature-hoch-1b.png,https://www.nature.com/articles/s41467-025-55877-z,"Feb 18, 2026",Figure 1.b
+133-nature-hillmann-1.png,https://www.nature.com/articles/s41467-025-63214-7,"Feb 18, 2026",Figure 1
+134-nature-hillmann-2.png,https://www.nature.com/articles/s41467-025-63214-7,"Feb 18, 2026",Figure 2
+132-nature-hothem-3.png,https://www.nature.com/articles/s41467-025-60923-x/figures/3,"Feb 18, 2026",Figure 3
+131-nature-hothem-1a.png,https://www.nature.com/articles/s41467-025-60923-x,"Feb 18, 2026",Figure 1.a
+135-nature-google-2a.png,https://www.nature.com/articles/s41586-025-09526-6/figures/2,"Feb 18, 2026",Figure 2.a
+136-nature-google-2b.png,https://www.nature.com/articles/s41586-025-09526-6/figures/2,"Feb 18, 2026",Figure 2.b
+137-nature-cai-2c.png,https://www.nature.com/articles/s41598-025-32780-7/figures/2,"Feb 18, 2026",Figure 2.c
+138-nature-aljaedi-5.png,https://www.nature.com/articles/s41598-025-12982-9,"Feb 18, 2026",Figure 5
+139-nature-wing-bocanegra-5.png,https://www.nature.com/articles/s41598-025-87304-0,"Feb 18, 2026",Figure 5
+140-nature-wing-bocanegra-8.png,https://www.nature.com/articles/s41598-025-87304-0/figures/8,"Feb 18, 2026",Figure 8
+141-nature-rajput-4.png,https://www.nature.com/articles/s41598-025-29369-5,"Feb 18, 2026",Figure 4
+144-nature-ringbauer-1c.png,https://www.nature.com/articles/s41467-024-55342-3/figures/1,"Feb 18, 2026",Figure 1.c
+145-nature-ringbauer-1b.png,https://www.nature.com/articles/s41467-024-55342-3/figures/1,"Feb 18, 2026",Figure 1.b
+146-nature-ringbauer-6.png,https://www.nature.com/articles/s41467-024-55342-3,"Feb 16, 2026",Figure 6
+147-nature-feng-1.png,https://www.nature.com/articles/s41598-025-98776-5/figures/1,"Feb 18, 2026",Figure 1
+148-nautre-werner-1.png,https://www.nature.com/articles/s41598-025-22705-9,"Feb 18, 2026",Figure 1
+149-nature-turkeshi-1.png,https://www.nature.com/articles/s41467-025-57704-x/figures/1,"Feb 18, 2026",Figure 1
+150-nature-bavaresco-1.png,https://www.nature.com/articles/s41467-025-64996-6,"Feb 18, 2026",Figure 1
+151-nature-bavaresco-2.png,https://www.nature.com/articles/s41467-025-64996-6,"Feb 18, 2026",Figure 2
+152-nature-kang-3.png,https://www.nature.com/articles/s41524-025-01806-z,"Feb 18, 2026",Figure 3
+153-nature-hu-1.png,https://www.nature.com/articles/s41467-025-57349-w/figures/1,"Feb 18, 2026",Figure 1
+154-nature-mourya-4.png,https://www.nature.com/articles/s41598-025-34413-5,"Feb 18, 2026",Figure 4
+155-nature-du-6.png,https://www.nature.com/articles/s41598-025-14724-3,"Feb 18, 2026",Figure 6
+157-nature-zhang-2.png,https://www.nature.com/articles/s41598-025-04987-1/figures/2,"Feb 18, 2026",Figure 2
+156-nature-zhang-4.png,https://www.nature.com/articles/s41598-025-04987-1/figures/4,"Feb 18, 2026",Figure 4
+159-nature-ahmed-3.png,https://www.nature.com/articles/s41598-025-17769-6/figures/3,"Feb 18, 2026",Figure 3
+158-nature-ahmed-2b.png,https://www.nature.com/articles/s41598-025-17769-6/figures/2,"Feb 18, 2026",Figure 2.
+160-nature-shen-2b.png,https://www.nature.com/articles/s41467-025-55953-4,"Fb 18, 2026",Figure 2.b
+161-nature-ghisoni-1.png,https://www.nature.com/articles/s41598-025-33825-7,"Feb 18,2026",Figure 1
+162-nature-dong-1.png,https://www.nature.com/articles/s41467-025-56724-x,"Feb 18, 2026",Figure 1
+163-nature-long-3a.png,https://www.nature.com/articles/s41598-025-13417-1,"Feb 18, 2026",Figure 3.a
+164-nature-jager-4a.png,https://www.nature.com/articles/s41534-025-01164-0,"Feb 18, 2026",Figure 4.a
+165-nature-xing-6.png,https://www.nature.com/articles/s41598-026-36535-w,"Feb 18, 2026",Figure 6
+166-nature-verma-3.png,https://www.nature.com/articles/s41598-024-84441-w,"Feb 18, 2026",Figure 3
+167-nature-verma-4.png,https://www.nature.com/articles/s41598-024-84441-w,"Feb 18, 2026",Figure 4
+168-nature-pecorari-1a.png,https://www.nature.com/articles/s41467-025-56255-5/figures/1,"Feb 18, 2026",Figure 1.a
+169-nature-pecorari-2b.png,https://www.nature.com/articles/s41467-025-56255-5/figures/2,"Feb 18, 2026",Figure 2.b
+170-pecorari-2c2.png,https://www.nature.com/articles/s41467-025-56255-5/figures/2,"Feb 18, 2026",Figure 2.c.2
+171-nature-meth-1d.png,https://www.nature.com/articles/s41567-025-02797-w/figures/1,"Feb 18, 2026",Figure 1.d
+172-nature-kim-3.png,https://www.nature.com/articles/s41467-025-62820-9,"Feb 18, 2026",Figure 3
+173-nature-brock-2b.png,https://www.nature.com/articles/s41586-025-08899-y/figures/2,"Feb 18, 2026",Figure 2.b
+174-nature-soltaninia-2a.png,https://www.nature.com/articles/s41598-025-91407-z/figures/2,"Feb 18, 2026",Figure 2.a
+175-nature-kim-1b.png,https://www.nature.com/articles/s41598-025-32955-2,"Feb 18, 2026",Figure 1.b
+176-nature-kim-5.png,https://www.nature.com/articles/s41598-025-32955-2,"Feb 18, 2026",Figure 5
+178-nature-li-1c.png,https://www.nature.com/articles/s41598-025-17651-5,"Feb 18, 2026",Figure 1.c
+177-nature-liao-4b.png,https://www.nature.com/articles/s41534-025-00960-y,"Feb 18, 2026",Figure 4.b
+179-nature-gupta-1d.png,https://www.nature.com/articles/s41746-025-01597-z,"Feb 18, 2026",Figure 1.d
+180-nature-lacroix-1ab.png,https://www.nature.com/articles/s41586-025-09061-4,"Feb 18, 2026",Figure 1.a-b
+181-nature-lacroix-1cd.png,https://www.nature.com/articles/s41586-025-09061-4,"Feb 18, 2026",Figure 1.c-d
+182-nature-lacroix-3d.png,https://www.nature.com/articles/s41586-025-09061-4,"Feb 18, 2026",Figure 3.d
+183-nature-xie-2.png,https://www.nature.com/articles/s41598-025-17075-1/figures/2,"Feb 18, 2026",Figure 2
+184-vanderberg-pea-2.png,https://arxiv.org/abs/2201.09866,"Feb 24, 2026",Figure 2
+186-cirq-fh.png,https://quantumai.google/cirq/experiments/fermi_hubbard/experiment_example,"Feb 17, 2026","The second snippet from: https://quantumai.google/cirq/experiments/fermi_hubbard/experiment_example#qubit_layout ; This is for some kind of physical simulation (Fermi-Hubbard). The arrows are for up-/down-spins, and numbers are for spin counts. This is actually one of the possible circuit layouts, so maybe this indicates a need for an ability to explore potentials. "
+187-cirq-lat-gau-e2.png,https://arxiv.org/pdf/2409.17142,"Mar 2, 2026",Figure 2.a
+201-patoka-opt-check,https://see-mike-out.github.io/patoka/previews?widget=viewer,Nov. 2025,""
+202-patoka-result,https://see-mike-out.github.io/patoka/previews?widget=job,Nov. 2025,""
+203-quflow,https://ieeexplore.ieee.org/abstract/document/8823602/,Nov. 2025,""
+204-violet,https://arxiv.org/abs/2312.15276,Nov. 2025,Source code: https://violet-source.github.io/
+205-quantivine,https://arxiv.org/abs/2307.08969,Nov. 2025,For a demo: https://virtual.ieeevis.org/year/2023/paper_v-full-1061.html
+206-quirk,https://algassert.com/quirk,Nov. 2025,""
+207-ibm-composer,https://quantum.cloud.ibm.com/composer,Nov. 2025,""
+208-ibm-platform,https://quantum.cloud.ibm.com/computers?system=ibm_boston,Nov. 2025,""
+209-crumble,https://github.com/quantumlib/Stim/blob/main/glue/crumble/README.md,Nov. 2025,For a demo: https://www.youtube.com/watch?v=SnpLSvyyEx8
+210-quantum-eyes.png,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10319321,Jun. 2026,For a demo: https://quantumeyes.github.io/
+211-muqcs.png,https://dl.acm.org/doi/10.1145/3786463,Jun. 2026,For a demo: https://www.youtube.com/watch?v=b6OqXkqPBeY
+212-rainbow-box.png,https://hal.science/hal-02264243v1,Jun. 2026,
+210-quantum-eyes,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10319321,Jun. 2026,For a demo: https://quantumeyes.github.io/
+211-muqcs,https://dl.acm.org/doi/10.1145/3786463,Jun. 2026,For a demo: https://www.youtube.com/watch?v=b6OqXkqPBeY
+212-rainbow-box,https://hal.science/hal-02264243v1,Jun. 2026,""
