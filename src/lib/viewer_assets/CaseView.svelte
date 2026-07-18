@@ -13,6 +13,8 @@
     let def_key = `${decision}${feature ? "." + feature : ""}${value ? "." + value : ""}`;
     description.set(CodeDefs[def_key]);
   });
+
+  const main_url = "https://see-mike-out.github.io/qc-circ-gallery/";
 </script>
 
 <div class="cases_wrap">
@@ -45,12 +47,13 @@
           |
           {#if $curr_keyword.decision && $curr_keyword.feature && $curr_keyword.value}
             <a
-              href={`/case_list_view?name=${item.name}&decision=${$curr_keyword.decision}&feature=${$curr_keyword.feature}&value=${$curr_keyword.value}`}
+              href={`${main_url}/case_list_view?name=${item.name}&decision=${$curr_keyword.decision}&feature=${$curr_keyword.feature}&value=${$curr_keyword.value}`}
               target="_blank">Find details</a
             >
           {:else}
-            <a href={`/case_list_view?name=${item.name}`} target="_blank"
-              >Find details</a
+            <a
+              href={`${main_url}/case_list_view?name=${item.name}`}
+              target="_blank">Find details</a
             >
           {/if}
         </h3>

@@ -124,8 +124,9 @@
         {#if $curr_case_data?.prov.source}
           <p class="desc">
             {#if $curr_case_data?.prov.source.startsWith("http")}
-              Source: <a href={$curr_case_data?.prov.source} target="_blank"
-                >Click</a
+              Source: <a
+                href={$curr_case_data?.prov.source}
+                target="_blank">Click</a
               >
             {:else}
               Source: {@html make_link($curr_case_data?.prov.source)}
