@@ -94,7 +94,7 @@
 
 <h1 class="container">
   Quantum Circuit Visualization Design Space <a
-    href="/.."
+    href="https://see-mike-out.github.io/qc-circ-gallery/"
     style="margin-left:3rem">Go to the design space view</a
   >
 </h1>

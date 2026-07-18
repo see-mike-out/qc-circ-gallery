@@ -14,7 +14,7 @@
     description.set(CodeDefs[def_key]);
   });
 
-  const main_url = "https://see-mike-out.github.io/qc-circ-gallery/";
+  const main_url = "https://see-mike-out.github.io/qc-circ-gallery";
 </script>
 
 <div class="cases_wrap">
@@ -33,11 +33,6 @@
     <span class="desc">
       {$description}
     </span>
-
-    <footer>
-      Because many of our sources are copyrighted, we only provide detailed
-      instructions on how to find them from the actual sources.
-    </footer>
   </div>
   <div class="image-list-wrap">
     {#each $curr_cases as item, j}
@@ -70,6 +65,11 @@
       </article>
     {/each}
   </div>
+
+  <footer>
+    Because many of our sources are copyrighted, we only provide detailed
+    instructions on how to find them from the actual sources.
+  </footer>
 </div>
 
 {#if $image_expansion}

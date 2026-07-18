@@ -89,7 +89,7 @@
 
 <h1 class="container">
   Quantum Circuit Visualization Design Space <a
-    href="/case_list_view"
+    href="https://see-mike-out.github.io/qc-circ-gallery/case_list_view"
     style="margin-left:3rem">Go to the list of cases</a
   >
 </h1>
