@@ -97,6 +97,7 @@
     href="https://see-mike-out.github.io/qc-circ-gallery/"
     style="margin-left:3rem">Go to the design space view</a
   >
+  <a href="https://arxiv.org/abs/2607.24042" style="margin-left:3rem" target="_blank">Preprint</a>
 </h1>
 
 <main class="container">

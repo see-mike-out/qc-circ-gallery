@@ -12,7 +12,7 @@ Most images are copyrighted, so we do not display the images. For publicly avail
 
 ## Preprint
 
-The preprint is available via: *TBD*.
+The preprint is available via: [https://arxiv.org/abs/2607.24042](https://arxiv.org/abs/2607.24042).
 
 ## Citation
 

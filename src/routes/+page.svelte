@@ -92,6 +92,7 @@
     href="https://see-mike-out.github.io/qc-circ-gallery/case_list_view"
     style="margin-left:3rem">Go to the list of cases</a
   >
+  <a href="https://arxiv.org/abs/2607.24042" style="margin-left:3rem" target="_blank">Preprint</a>
 </h1>
 
 <main class="container">
